@@ -68,6 +68,11 @@ captures/
 .idea/gradle.xml
 .idea/libraries
 
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
@@ -94,3 +99,5 @@ fabric.properties
 app/libs/
 app/src/main/res/drawable/
 gradle/
+/.idea/copyright/profiles_settings.xml
+/.idea/copyright/
